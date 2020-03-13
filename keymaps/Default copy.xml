@@ -1,0 +1,28 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CompareTwoFiles" />
+  <action id="DecrementWindowHeight" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="IncrementWindowHeight" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="SendEOF" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
