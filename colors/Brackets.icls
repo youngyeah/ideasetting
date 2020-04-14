@@ -2,9 +2,8 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e0e0ff" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f8f8f8" />
@@ -459,6 +458,9 @@
         <option name="BACKGROUND" value="eaeaea" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffcfbb" />
@@ -608,6 +610,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LAMBDA_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="885d3b" />
@@ -643,6 +648,12 @@
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" value="416dbf" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
